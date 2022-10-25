@@ -1,7 +1,7 @@
 "gender","race/ethnicity","parental level of education","lunch","test preparation course","math score","reading score","writing score"
 "male","group A","high school","standard","completed","","69","63"
 "female","group D","some high school","free/reduced","none","40","59","55"
-"male","group E","some college","free/reduced","none","59","NaN","50"
+"male","group E","some college","free/reduced","none","59","","50"
 "male","group B","high school","standard","none","77","78","68"
 "male","group E","associate's degree","standard","completed","78","73","68"
 "female","group D","high school","standard","none","63","77","76"
